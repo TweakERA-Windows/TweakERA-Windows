@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="tweakera-banner.png" alt="TweakERA – Dein Windows. Nur schneller." width="100%">
 
-<!--
-**Vsx-Tweaks/vsx-tweaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TweakERA
 
-Here are some ideas to get you started:
+Windows-11-Optimierer für Gaming und mehr Tempo. Kostenlos, jeder Schritt lässt sich zurücksetzen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 **Open Beta läuft.** Download: [neueste Version](https://github.com/Vsx-Tweaks/vsx-tweaks/releases/latest) (`TweakERA-Setup-….exe` unter „Assets“)
+
+- 1-Click-Optimierung mit Sicherung vorher
+- Über 80 Tweaks für System, Netzwerk, Audio und Spiele
+- Hintergrund-Analyse, Aufräumen, Hardware-Prüfung, Benchmark mit PC-Rang
+- Pro (einmalig 3,99 €): Spiel-Profile, Engpass-Finder, FPS messen, Low-End-1-Click
+
+Nur für Windows 11. Windows warnt beim ersten Start, weil das Setup noch kein Zertifikat hat: „Weitere Informationen“ › „Trotzdem ausführen“.
+
+💬 Discord: https://discord.gg/ZBuNXKRCag · ✉️ vsxtweaks@proton.me
