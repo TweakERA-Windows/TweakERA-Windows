@@ -4,7 +4,7 @@
 
 Windows-11-Optimierer für Gaming und mehr Tempo. Kostenlos, jeder Schritt lässt sich zurücksetzen.
 
-🧪 **Open Beta läuft.** Download: [neueste Version](https://github.com/TweakERA-Windows11/TweakERA-Windows11/releases/latest) (`TweakERA-Setup-….exe` unter „Assets“)
+🧪 **Closed Beta läuft.** Download: [neueste Version](https://github.com/TweakERA-Windows11/TweakERA-Windows11/releases/latest) (`TweakERA-Setup-….exe` unter „Assets“)
 
 - 1-Click-Optimierung mit Sicherung vorher
 - Über 80 Tweaks für System, Netzwerk, Audio und Spiele
